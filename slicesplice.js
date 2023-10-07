@@ -12,8 +12,8 @@
 //delete element: how many element u want to delete starting from start
 
 var arr = ["michel", "rita", "josephine"];
-arr.splice(0, 0, "amal");
-document.write(arr);
+// arr.splice(0, 0, "amal");
+// document.write(arr);
 arr.splice(0, 1, "amal");
 document.write(arr);
 
